@@ -34,7 +34,7 @@ API Spring Boot con autenticación, validaciones y documentación con Swagger.
 
 *(Próximamente subiré los enlaces a cada repositorio.)*
 
----
+--
 
 ## 📫 Contacto
 
